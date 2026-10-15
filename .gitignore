@@ -8,6 +8,9 @@ venv/
 __pycache__/
 *.py[cod]
 
+# Scripts ignorados
+transform.py
+
 # Environment variables
 .env
 .env.*
